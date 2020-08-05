@@ -1,16 +1,16 @@
-# furniturenew
+# Furniture shop flutter
 
 A new Flutter application.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Tutorial url : https://youtu.be/T4ppLIsFjaE
 
-A few resources to get you started if this is your first Flutter project:
+Design credits : https://xdfile.com/furniture-store-app-xd-template/
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Author
+If you like my work, please consider supporting me with your kind contribution. Thank you!!!
+<div><a href=https://paypal.me/kaushikchandru?locale.x=en_GB>paypal </a></div>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
